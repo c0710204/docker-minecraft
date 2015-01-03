@@ -1,0 +1,58 @@
+users:
+  21Guns:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&c 【高级贵宾】'
+  banbang654:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&5【贵宾】'
+  Bolilom:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&b【高级贵宾】'
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Miss_233:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&e【高级贵宾】'
+  Sha_fish:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&b【高级贵宾】'
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  SUISUIHANHAN:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&a 【接待】'
+  xiao_you:
+    group: Builder
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&d【喵帕斯】'

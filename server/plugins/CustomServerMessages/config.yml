@@ -1,0 +1,107 @@
+Plugin:
+  Updates:
+    AutoVersionCheck: false
+    AutoDownload: false
+  Metrics: true
+Event:
+  Join:
+    Enable: true
+    Message: "&9&6%Player &d\u4e0a\u4e86\u670d\u52a1\u5668\u5a18\uff01\u5367\u69fd"
+  Quit:
+    Enable: true
+    Message: "&6%Player &9\u88ab\u670d\u52a1\u5668\u5a18\u4e00\u5df4\u638c\u6253\u51fa\
+      \u53bb\u4e86!"
+  Whitelist:
+    Enable: true
+    Message: "&b\u60f3\u8981\u767d\u540d\u5355\u7684\u627e\u8f85\u52a9\u4e00\u4e2a\
+      \u4e00\u4e2a\u7ed9\u7206\u4e00\u4e2a\u4e00\u4e2a\u6765.\u542c\u5230\u6ca1"
+  ServerFull:
+    Enable: true
+    Message: "&6\u670d\u52a1\u5668\u4ee5\u7206\u6ee1, try &4127.0.0.1&6!"
+  JoinOnlyToPlayer:
+    Enable: true
+    Delay: 2
+    Message: "&9\u6b22\u8fce %Player \u52a0\u5165\u591c\u60a0\u670d\u52a1\u5668!"
+Server:
+  Motd:
+    Enable: true
+    Messages:
+    - "\xa7e\u840c\u840c\u54d2!  &d\u5176\u5b9e\u6211\u60f3\u8bf4\u7684\u5c31\u662f\
+      \u5fc3\u7d2f.  &d\u8d44\u52a9\u7684\u662f\u4f60\u4eec\u7ed9\u6211\u7684\u52a8\
+      \u529b."
+Command:
+  Say:
+    Enable: true
+    Message: "&b[\u7ba1\u7406\u5458\u516c\u544a]&6(%Player)&f:&c %Message"
+  Me:
+    Enable: true
+    Message: '&6%Player &4>>> &b%Message'
+  Plugins:
+    Enable: true
+    Message: "\u53ea\u6709\u7ba1\u7406\u5458\u53ef\u4ee5\u770b\u5230\u63d2\u4ef6\u5217\
+      \u8868!"
+  Version:
+    Enable: true
+    Message: "\u7248\u672c: &6MyServer 2.0!"
+  Seed:
+    Enable: true
+    Message: "&f\u4f60\u6ca1\u6709\u6743\u9650\u67e5\u770bseed!"
+DeathMessages:
+  Enable: true
+  Messages:
+    Drowned: "&6%Player &c\u8fd9\u9017\u903c\u4ee5\u4e3a\u81ea\u5df1\u53ef\u4ee5\u5728\
+      \u6c34\u91cc\u547c\u5438.\u7ed3\u679c\u6b7b\u4e86"
+    FallDamage: "&6%Player &4\u60f3\u98de\u53ef\u60dc\u6b7b\u4e86.\u602a\u725b\u987f\
+      \u54af"
+    Void: "&6%player &6\u53bb\u4e86\u706b\u661f.\u5728\u4e5f\u56de\u4e0d\u6765\u4e86"
+    Lava: "&6%Player &e\u8fd9\u662fFFF\u5458.\u6700\u540e\u4e00\u6837\u6b7b\u5728\u81ea\
+      \u5df1\u624b\u91cc"
+    Fire: "&9&6%Player &2\u88abFFF\u56e2\u70e7\u6b7b\u4e86.\u70e7\u6b7b\u4e86"
+    Explosion: "&6%Player &b\u88ab\u840c\u840c\u556a\u5a18.\u556a\u6b7b\u4e86"
+    Magic: "&6%Player &3\u88ab\u4e2d\u4e8c\u9b54\u6cd5\u51fb\u6740"
+    Suffocated: "&6%Player &1\u7a92\u606f\u800c\u6b7b.\u602a\u670d\u52a1\u5668\u5a18\
+      \u54af"
+    Projectile: "&6%Player &d\u88ab\u840c\u840c\u7684\u5c0f\u767d\u5c04\u2642\u6b7b\
+      \u2642\u4e86"
+    Starved: "&6%Player &b\u73a9\u4e2aMC\u80fd\u997f\u6b7b\u7684.\u6211\u4e5f\u662f\
+      \u4f69\u670d."
+    Withered: "&6%Player &9\u5df2\u7ecf\u51cb\u8c22\u4e86"
+    Died: "&6%Player &9\u55dd\u5c41\u4e86"
+    Player: "&6%Killer &9\u4f7f\u7528 &6%Item &9\u51fb\u6740\u4e86\u53ef\u601c\u7684\
+      \ &6%Killed"
+    Slain:
+      Pigman: "&6%Player &9\u88ab\u50f5\u5c38\u732a\u4eba\u7206\u83ca\u800c\u6b7b"
+      Zombie: "&6%Player &b\u88ab\u840c\u840c\u54d2\u7684\u50f5\u5c38\u5a18\u840c\u6740\
+        \u6b7b"
+      Spider: "&6%Player &9\u88ab\u840c\u840c\u7684\u8718\u86db\u5a18\u840c\u6740\u4e86"
+      Silverfish: "&6%Player &9\u88ab\u8839\u866b\u6740\u6b7b"
+      Slime: "&6%Player &9\u88ab\u53f2\u83b1\u59c6\u6740\u6b7b"
+      Creeper: "&6%Player &b\u88ab\u840c\u840c\u54d2\u7684\u82e6\u529b\u6015\u5a18\
+        \u556a\u6b7b\u4e86"
+      MagmaCube: "&6%Player &9w\u88ab\u5ca9\u6d46\u602a\u6740\u6b7b"
+      Enderman: "&6%Player &9\u88ab\u840c\u840c\u7684\u5c0f\u9ed1\u6740\u6b7b\u4e86\
+        = - ="
+      EnderDragon: "&6%Player &9\u88ab\u672b\u5f71\u9f99\u6740\u6b7b"
+      CaveSpider: "&6%Player &9\u88ab\u6d1e\u7a74\u8718\u86db\u6740\u7684\u7247\u7532\
+        \u4e0d\u7559"
+      IronGolem: "&6%Player &9\u88ab\u94c1\u5080\u5121\u6572\u6210\u4e86\u6740\u6b7b"
+      Wolf: "&6%Player &9\u88ab\u72fc\u6740\u6b7b"
+      Giant: "&6%Player &9\u88ab\u5de8\u4eba\u6740\u6b7b"
+      Wither: "&6%Player &9\u88ab\u51cb\u96f6\u6740\u6b7b"
+      Skeleton: "&6%Player &9\u88ab\u9ab7\u9ac5\u6740\u6b7b"
+      Blaze: "&6%Player &9\u88ab\u706b\u7403\u6740\u6b7b"
+      Ghast: "&6%Player &9\u88ab\u6076\u9b42\u6740\u6b7b"
+      Witch: "&6%Player &9\u88ab\u5973\u5deb\u6740\u6b7b"
+      WitherSkeleton: "&6%Player &9\u88ab\u51cb\u96f6\u9ab7\u9ac5\u6740\u6b7b"
+    HitTheGround: "&6%Player &9\u6454\u6b7b\u4e86"
+    SwimLava: "&6%Player &9\u5728\u5ca9\u6d46\u91cc\u6e38\u6cf3"
+    WentFlames: "&6%Player &9\u70e7\u6b7b\u4e86"
+    BurnedDeath: "&6%Player &9\u88ab\u70e4\u7126\u4e86"
+    BlewUp: "&6%Player &9\u88ab\u70b8\u6b7b\u4e86"
+    Pricked: "&6%Player &9\u88ab\u624e\u6b7b\u4e86"
+    ShotArrow: "&6%Player &b\u88ab\u840c\u840c\u7684\u5c0f\u767d\u5c04\u2642\u6b7b\
+      \u2642\u4e86"
+    HurtSkeleton: "&6%Player &9\u8bd5\u56fe\u4f24\u5bb3\u9ab7\u9ac5\u65f6\u88ab\u5c04\
+      \u6740"
+    HurtZombie: "&6%Player &9\u5728\u8bd5\u56fe\u4f24\u5bb3\u50f5\u5c38\u65f6\u88ab\
+      \u5403\u6389\u4e86\u8111\u888b"

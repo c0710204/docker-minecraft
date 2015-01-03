@@ -1,0 +1,7 @@
+# CraftGuard 2.X by FrozenTux
+# http://dev.bukkit.org/server-mods/craftguard
+example:
+  permission: permission
+  ids:
+  - '24'
+  - '32:2'

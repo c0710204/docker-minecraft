@@ -1,0 +1,68 @@
+unknown_user: "&f\u7528\u6237\u540d\u4e0d\u5141\u8bb8\uff01"
+unsafe_spawn: "&f\u4f60\u79bb\u5f00\u7684\u5730\u65b9\u4e0d\u5b89\u5168\uff0c\u5e26\
+  \u4f60\u53bb\u5b89\u5168\u7684\u51fa\u751f\u70b9\u3002"
+not_logged_in: '&cNot logged in!'
+reg_voluntarily: "&c\u4f7f\u7528 /register &d\u4f60\u7684\u5bc6\u7801 \u518d\u8f93\
+  \u5165\u4e00\u6b21\u4f60\u7684\u5bc6\u7801 \u6765\u6ce8\u518c"
+usage_log: "&c\u4f7f\u7528  /login \u4f60\u7684\u5bc6\u7801 \u6765\u767b\u5f55"
+wrong_pwd: "&c\u5c11\u5e74\uff0c\u4f60\u7684\u5bc6\u7801\u8f93\u5165\u9519\u8bef\uff01\
+  \ \u670d\u4e3b\u53cb\u60c5\u63d0\u793a\u3002"
+unregistered: "&c\u6210\u529f\u53cd\u6ce8\u518c!"
+reg_disabled: "&c\u6ce8\u518c\u5173\u95ed\uff0c\u65e0\u6cd5\u6ce8\u518c\u3002"
+valid_session: '&cSession login'
+login: "&c\u5c11\u5e74\u606d\u559c\u4f60\u6210\u529f\u767b\u5f55\u4e86!"
+vb_nonActiv: '&fYour Account isent Activated yet check your Emails!'
+user_regged: "&c\u5c11\u5e74\u4f60\u4f7f\u7528\u7684\u7528\u6237\u540d\u5df2\u7ecf\
+  \u88ab\u6ce8\u518c\u8fc7\u4e86\u3002"
+usage_reg: "&f\u4f7f\u7528 /register &4\u4f60\u7684\u5bc6\u7801 \u518d\u8f93\u5165\
+  \u4e00\u6b21\u4f60\u7684\u5bc6\u7801 \u6765\u6ce8\u518c"
+max_reg: "&f\u4f60\u5df2\u7ecf\u8fbe\u5230\u4f60\u5141\u8bb8\u6ce8\u518c\u7684\u7528\
+  \u6237\u540d\u7684\u6700\u5927\u6570\u91cf\uff01"
+no_perm: '&cNo Permission'
+error: '&fAn error ocurred; Please contact the admin'
+login_msg: "&d\u8bf7\u4f7f\u7528\u5bc6\u7801\u767b\u5f55 \"/login \u4f60\u7684\u5bc6\
+  \u7801\""
+reg_msg: "&c\u4f7f\u7528 /register &d\u4f60\u7684\u5bc6\u7801 \u518d\u8f93\u5165\u4e00\
+  \u6b21\u4f60\u7684\u5bc6\u7801 \u6765\u6ce8\u518c"
+reg_email_msg: '&cPlease register with "/register <email> <confirmEmail>"'
+usage_unreg: '&cUsage: /unregister password'
+pwd_changed: '&cPassword changed!'
+user_unknown: '&cUsername not registered'
+password_error: '&fPassword doesnt match'
+unvalid_session: '&fSession Dataes doesnt corrispond Plaese wait the end of session'
+reg_only: '&fRegistered players only! Please visit http://example.com to register'
+logged_in: '&cAlready logged in!'
+logout: "&c\u6210\u529f\u767b\u51fa\uff01"
+same_nick: "&f\u540c\u6837\u7684\u540d\u5b57\u5df2\u7ecf\u88ab\u4f7f\u7528\u3002"
+registered: "&c\u6210\u529f\u6ce8\u518c!"
+pass_len: '&fYour password dind''t reach the minimum length or exeded the max length'
+reload: '&fConfiguration and database has been reloaded'
+timeout: "&f\u767b\u5f55\u8d85\u65f6"
+usage_changepassword: '&fUsage: /changepassword oldPassword newPassword'
+name_len: '&cYour nickname is too Short or too long'
+regex: '&cYour nickname contains illegal characters. Allowed chars: REG_EX'
+add_email: '&cPlease add your email with : /email add yourEmail confirmEmail'
+bad_database_email: '[AuthMe] This /email command only available with MySQL and SQLite,
+  contact an Admin'
+recovery_email: "&c\u5fd8\u8bb0\u4e86\u4f60\u7684\u5bc6\u7801\uff1f \u8bf7\u4f7f\u7528\
+  \ /email recovery <\u4f60\u7684\u90ae\u7bb1>"
+usage_captcha: '&cYou need to type a captcha, please type: /captcha <theCaptcha>'
+wrong_captcha: '&cWrong Captcha, please use : /captcha THE_CAPTCHA'
+valid_captcha: '&cYour captcha is valid !'
+kick_forvip: '&cA VIP Player join the full server!'
+kick_fullserver: '&cThe server is actually full, Sorry!'
+usage_email_add: '&fUsage: /email add <email> <confirmeEmail> '
+usage_email_change: '&fUsage: /email change oldEmail> <newEmail> '
+usage_email_recovery: '&fUsage: /email recovery <Email>'
+new_email_invalid: '[AuthMe] New email invalid!'
+old_email_invalid: '[AuthMe] Old email invalid!'
+email_invalid: '[AuthMe] Invalid Email'
+email_added: '[AuthMe] Email Added !'
+email_confirm: '[AuthMe] Confirm your Email !'
+email_changed: '[AuthMe] Email Change !'
+email_send: '[AuthMe] Recovery Email Send !'
+country_banned: Your country is banned from this server
+antibot_auto_enabled: '[AuthMe] AntiBotMod automatically enabled due to massive connections!'
+antibot_auto_disabled: '[AuthMe] AntiBotMod automatically disabled after %m Minutes,
+  hope invasion stopped'
+email_add: '[AuthMe] /email add <Email> <confirmEmail>'

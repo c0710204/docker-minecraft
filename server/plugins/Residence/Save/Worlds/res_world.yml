@@ -1,0 +1,995 @@
+Version: 1
+Seed: -5994798202589608300
+Residences:
+  610isgood:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2454
+        Y1: 82
+        Z1: -409
+        X2: -2466
+        Y2: 71
+        Z2: -418
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        brian:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+        miao:
+          move: true
+        dandan:
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: Brian
+      World: world
+    StoredMoney: 0
+  xxXxx:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2433
+        Y1: 93
+        Z1: -384
+        X2: -2445
+        Y2: 75
+        Z2: -398
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        dandan:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: dandan
+      World: world
+    StoredMoney: 0
+  miaowangzhi:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2476
+        Y1: 85
+        Z1: -373
+        X2: -2484
+        Y2: 75
+        Z2: -383
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        miao:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: miao
+      World: world
+    StoredMoney: 0
+  wesley:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2463
+        Y1: 83
+        Z1: -384
+        X2: -2472
+        Y2: 77
+        Z2: -391
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        miao:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: miao
+      World: world
+    StoredMoney: 0
+  '123':
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -518
+        Y1: 74
+        Z1: 54
+        X2: -524
+        Y2: 71
+        Z2: 47
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        fiaa:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: Fiaa
+      World: world
+    StoredMoney: 0
+  miao:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2474
+        Y1: 84
+        Z1: -384
+        X2: -2484
+        Y2: 79
+        Z2: -392
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        miao:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: miao
+      World: world
+    StoredMoney: 0
+  xuxuxu:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -31
+        Y1: 110
+        Z1: -506
+        X2: -43
+        Y2: 101
+        Z2: -517
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        xu123:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        destroy: false
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: xu123
+      World: world
+    StoredMoney: 0
+  610isthebest:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2467
+        Y1: 73
+        Z1: -407
+        X2: -2477
+        Y2: 71
+        Z2: -416
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        brian:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: Brian
+      World: world
+    StoredMoney: 0
+  shenmi:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 334
+        Y1: 77
+        Z1: 1676
+        X2: 319
+        Y2: 72
+        Z2: 1661
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        simple:
+          destroy: true
+          container: true
+          use: true
+          place: true
+          move: true
+        miss_233:
+          destroy: true
+          container: true
+          use: true
+          place: true
+          move: true
+        bolilom:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+        carry:
+          destroy: true
+          container: true
+          use: true
+          place: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: true
+      Owner: Bolilom
+      World: world
+    StoredMoney: 0
+  '3':
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      '4':
+        X1: -437
+        Y1: 70
+        Z1: 236
+        X2: -441
+        Y2: 65
+        Z2: 228
+      main:
+        X1: -442
+        Y1: 70
+        Z1: 245
+        X2: -453
+        Y2: 65
+        Z2: 228
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        lzm:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: lzm
+      World: world
+    StoredMoney: 0
+  taiyangneng:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 334
+        Y1: 87
+        Z1: 1676
+        X2: 318
+        Y2: 85
+        Z2: 1660
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        bolilom:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: Bolilom
+      World: world
+    StoredMoney: 0
+  '2':
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -427
+        Y1: 63
+        Z1: 267
+        X2: -440
+        Y2: 63
+        Z2: 261
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        lzm:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: lzm
+      World: world
+    StoredMoney: 0
+  qwe123:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2415
+        Y1: 77
+        Z1: -2020
+        X2: -2420
+        Y2: 64
+        Z2: -2026
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        xiao_you:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: xiao_you
+      World: world
+    StoredMoney: 0
+  gongye:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 334
+        Y1: 84
+        Z1: 1676
+        X2: 319
+        Y2: 78
+        Z2: 1661
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        simple:
+          destroy: true
+          container: true
+          use: true
+          place: true
+          move: true
+        bolilom:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: Bolilom
+      World: world
+    StoredMoney: 0
+  '1':
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      '4':
+        X1: -436
+        Y1: 63
+        Z1: 260
+        X2: -444
+        Y2: 63
+        Z2: 254
+      main:
+        X1: -436
+        Y1: 63
+        Z1: 253
+        X2: -444
+        Y2: 63
+        Z2: 251
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        lzm:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: true
+        build: false
+      Owner: lzm
+      World: world
+    StoredMoney: 0
+  Miss:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 440
+        Y1: 84
+        Z1: 1622
+        X2: 394
+        Y2: 70
+        Z2: 1602
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        miss_233:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+        carry:
+          container: true
+          use: true
+          build: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: Miss_233
+      World: world
+    StoredMoney: 0
+  fuck:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 2391
+        Y1: 80
+        Z1: 1598
+        X2: 2337
+        Y2: 51
+        Z2: 1542
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        xiaoyang:
+          container: true
+          tp: true
+          use: true
+          build: true
+          move: true
+        electrician:
+          container: true
+          tp: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+        george:
+          container: true
+          tp: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        tp: false
+        use: false
+        monsters: false
+        flow: true
+        creeper: false
+        build: false
+        firespread: false
+        tnt: false
+        container: false
+        ignite: false
+        piston: false
+        healing: true
+        move: false
+      Owner: Electrician
+      World: world
+    TPLoc:
+      Y: 63
+      X: 2384
+      Z: 1565
+    StoredMoney: 0
+  qiuxue:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 322
+        Y1: 73
+        Z1: -173
+        X2: 308
+        Y2: 58
+        Z2: -189
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        autumn_snow:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: true
+        build: false
+        move: false
+        waterflow: true
+      Owner: AUTUMN_SNOW
+      World: world
+    StoredMoney: 0
+  vox:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -27
+        Y1: 75
+        Z1: -845
+        X2: -59
+        Y2: 62
+        Z2: -876
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        21guns:
+          destroy: true
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        destroy: false
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: 21Guns
+      World: world
+    StoredMoney: 0
+  xu123:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: 117
+        Y1: 78
+        Z1: -305
+        X2: 108
+        Y2: 77
+        Z2: -318
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        xu123:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+        xuxuxu:
+          destroy: true
+      GroupFlags: {}
+      AreaFlags:
+        destroy: true
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: xu123
+      World: world
+    StoredMoney: 0
+  Fiaa马棚:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -586
+        Y1: 66
+        Z1: 42
+        X2: -597
+        Y2: 64
+        Z2: 28
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        fiaa:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+      Owner: Fiaa
+      World: world
+    StoredMoney: 0
+  CBCBA:
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    BlackList:
+      Type: BLACKLIST
+      ItemList: []
+    LeaveMessage: Now leaving %residence.
+    IgnoreList:
+      Type: IGNORELIST
+      ItemList: []
+    Areas:
+      main:
+        X1: -2432
+        Y1: 73
+        Z1: -2015
+        X2: -2445
+        Y2: 64
+        Z2: -2025
+    Subzones: {}
+    Permissions:
+      PlayerFlags:
+        xiaoyang:
+          container: true
+          bucket: true
+          tp: true
+          use: true
+          build: true
+          move: true
+        george:
+          container: true
+          ignite: true
+          use: true
+          build: true
+          move: true
+      GroupFlags: {}
+      AreaFlags:
+        pvp: false
+        firespread: false
+        container: false
+        tnt: false
+        ignite: false
+        piston: false
+        use: false
+        creeper: false
+        flow: false
+        build: false
+        move: false
+      Owner: George
+      World: world
+    StoredMoney: 0

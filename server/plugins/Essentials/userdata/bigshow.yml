@@ -1,0 +1,29 @@
+socialspy: false
+timestamps:
+  login: 1410853604982
+  logout: 1410855658671
+  lastteleport: 1410855524111
+ipAddress: 106.38.206.26
+lastlocation:
+  world: world
+  x: 67.14477827508401
+  y: 63.70000001788139
+  z: 325.7853651104357
+  yaw: 333.92
+  pitch: 45.29999
+logoutlocation:
+  world: world
+  x: 297.94127024435653
+  y: 137.0
+  z: 777.9936870208893
+  yaw: -272.69806
+  pitch: 12.009682
+homes:
+  home:
+    world: world
+    x: 73.16070951939946
+    y: 63.0
+    z: 336.0560486032507
+    yaw: 276.6007
+    pitch: 4.950033
+money: '30.0'

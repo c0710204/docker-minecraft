@@ -1,0 +1,22 @@
+socialspy: false
+timestamps:
+  login: 1410266644267
+  logout: 1410268756688
+ipAddress: 36.63.239.183
+lastlocation:
+  world: world
+  x: 238.04686663254677
+  y: 68.0
+  z: -165.5882098175309
+  yaw: 132.60071
+  pitch: 19.349972
+logoutlocation:
+  world: world
+  x: 240.98177993339596
+  y: 81.0
+  z: -226.75718490437282
+  yaw: 184.94434
+  pitch: 15.600008
+afk: false
+nickname: GHOSTHIM
+money: '30.0'

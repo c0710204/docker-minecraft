@@ -1,0 +1,12 @@
+# CraftGuard version 2.X by FrozenTux
+# http://dev.bukkit.org/server-mods/craftguard
+denymessage: You can't %m %n !
+notifyplayer: true
+logmessage: '你不能合此物品！熊孩子！'
+allowbydefault: true
+debug: false
+modules:
+- craft
+- smelt
+log: true
+baseperm: craftguard

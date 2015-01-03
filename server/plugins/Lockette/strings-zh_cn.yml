@@ -1,0 +1,45 @@
+﻿language: Simplified Chinese
+author: sjjklh
+editors: ''
+version: 0
+alternate-private-tag: 私有
+alternate-moreusers-tag: 更多用户
+alternate-everyone-tag: 所有人
+alternate-operators-tag: 管理员
+alternate-timer-tag: 定时器
+alternate-fee-tag: 有偿
+msg-user-conflict-door: 冲突的门已被移除！
+msg-user-illegal: 非法的箱子已被移除！
+msg-user-resize-owned: 你无法改变 *** 拥有的箱子的尺寸。
+msg-help-chest: 在箱子旁边放置抬头为[私有]或[Private]来给箱子上锁。
+msg-owner-release: 你已经移除了箱子的所有权保护！
+msg-admin-release: （管理员） @@@已经移除了 *** 拥有的容器的所有权保护！
+msg-user-release-owned: 你无法移除 *** 拥有的容器的所有权保护。
+msg-owner-remove: 你已经成功移除了一位容器的用户！
+msg-user-remove-owned: 你无法移除 *** 拥有的容器的用户。
+msg-user-break-owned: 你无法破坏 *** 拥有的容器。
+msg-user-denied-door: 你没有打开这扇门的权限。
+msg-user-touch-fee: '为了打开，你需要向 *** 支付 ### 的费用。'
+msg-user-touch-owned: 这个容器属于 ***。
+msg-help-select: 告示牌已选中。使用命令 /lockette <行序号> <文本> 来编辑。
+msg-admin-bypass: 强行通过 *** 拥有的门，确保你离开时门关住了。
+msg-admin-snoop: （管理员） @@@ 已经查看了 *** 拥有的容器内的物品！
+msg-user-denied: 你没有打开这个容器的权限！
+msg-error-zone: 这个区域被 *** 所保护。
+msg-error-permission: 锁闭容器的请求被拒绝。
+msg-error-claim: 附近没有空闲的容器！
+msg-error-claim-conflict: 与已经存在的被保护的门相冲突。
+msg-admin-claim-error: 玩家 *** 不在线。请确定你输入了正确的玩家名。
+msg-admin-claim: 你已经声明这个容器的属于 ***!
+msg-owner-claim: 你已经具有这个容器的所有权！
+msg-error-adduser-owned: 你无法向 *** 拥有的容器增加更多用户。
+msg-error-adduser: 附近没有具有拥有者的容器以新增用户！
+msg-owner-adduser: 你已经向该容器新增了用户！
+msg-help-command1: '&C/lockette <行序号> <文本> - 编辑用于锁闭的告示牌。请先用右键选中。'
+msg-help-command2: '&C/lockette fix - 修复朝向错误的自动门。请先看着门以选中。'
+msg-help-command3: '&C/lockette reload - 重新载入插件配置文件。管理员专用。'
+msg-help-command4: '&C/lockette version - 返回Lockette版本号字符串。'
+msg-admin-reload: 正在重新载入插件配置文件。
+msg-error-fix: 未找到具有所有者的门。
+msg-error-edit: 请先用右键选中告示牌。
+msg-owner-edit: 成功编辑告示牌。

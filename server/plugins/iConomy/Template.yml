@@ -1,0 +1,45 @@
+# 
+# Messaging Template
+tag:
+  money: "<green>[<white>\u8282\u64cd\u4fe1\u606f<green>] "
+personal:
+  balance: "<green>\u8d26\u6237\u8d44\u91d1\uff1a <white>+balance"
+  reset: "<rose>\u4f60\u7684\u8d26\u6237\u5df2\u88ab\u91cd\u7f6e."
+  set: "<green>\u4f60\u7684\u8d44\u91d1\u88ab\u8bbe\u7f6e\u4e3a<white>+amount"
+  debit: "<rose>\u4f60\u7684\u8d44\u91d1\u88ab\u6263\u9664<white>+amount<rose>."
+  credit: "<white>+amount<green> \u5df2\u6253\u5165\u4f60\u7684\u8d26\u6237"
+  status: "<green>\u8d26\u6237\u5f53\u524d\u72b6\u6001\uff1a <white>+status<green>."
+player:
+  set: "<green>+name\u7684\u8d44\u91d1\u88ab\u8bbe\u7f6e\u4e3a <white>+amount"
+  balance: "<green>+name\u7684\u8d44\u91d1\uff1a <white>+balance"
+  reset: "<white>+name<rose>\u7684\u8d26\u6237\u88ab\u91cd\u7f6e"
+  credit: "<white>+name<green>\u7684\u8d26\u6237\u6536\u5230<white>+amount<green>."
+  debit: "<white>+name<rose>\u7684\u8d26\u6237\u88ab\u6263\u9664<white>+amount<rose>."
+  status: "<white>+name<green>\u7684\u8d26\u6237\u5f53\u524d\u72b6\u6001\uff1a <white>+status<green>."
+payment:
+  self: "<rose>\u4f60\u4e0d\u80fd\u7ed9\u81ea\u5df1\u6253\u94b1"
+  to: "<green>\u4f60\u53d1\u9001<white>+amount<green> \u7ed9 <white>+name<green>."
+  from: "<white>+name<green>\u53d1\u7ed9\u4f60<white>+amount<green>."
+statistics:
+  opening: "<green>-----[ <white>iConomy \u72b6\u6001 <green>]-----"
+  total: "<gray>\u603b\u503c +currency\uff1a <white>+amount"
+  average: "<gray>\u5e73\u5747 +currency\uff1a <white>+amount"
+  accounts: "<gray>\u5168\u90e8\u8d26\u6237\uff1a <white>+amount"
+interest:
+  announcement: "\u83b7\u5f97\u5229\u606f +amount <green>."
+accounts:
+  empty: "<rose>\u5df2\u6e05\u7a7a <white>\u6240\u6709<rose> \u8d26\u6237"
+  purge: "<rose>\u6240\u6709\u51bb\u7ed3\u8d26\u6237\u5df2\u88ab\u6e05\u7a7a"
+  create: "<green>\u521b\u5efa\u8d26\u6237\uff1a <white>+name<green>."
+  remove: "<green>\u79fb\u9664\u8d26\u6237\uff1a <white>+name<green>."
+  status: "<green>\u8d26\u6237\u5f53\u524d\u72b6\u6001\uff1a <white>+status<green>."
+top:
+  opening: <green>-----[ <white>Wealthiest Accounts <green>]-----
+  item: <gray>+i. <green>+name <gray>- <white>+amount
+error:
+  online: "<rose>\u6ca1\u6709\u5176\u4ed6\u4eba\u5728\u7ebf"
+  exists: "<rose>\u8d26\u6237\u5df2\u5b58\u5728"
+  create: "<rose>\u4e0d\u80fd\u521b\u5efa\u8d26\u6237\uff1a <white>+name<rose>."
+  remove: "<rose>\u4e0d\u80fd\u79fb\u9664\u8d26\u6237\uff1a <white>+name<rose>."
+  account: "<rose>\u8d26\u6237 <white>+name<rose> \u4e0d\u5b58\u5728"
+  funds: "<rose>\u4f60\u6ca1\u6709\u8db3\u591f\u7684\u94b1\u90a3\u6837\u505a!"

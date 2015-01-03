@@ -1,0 +1,8 @@
+normal:
+  prefix: "&b[\u670d\u52a1\u5668\u5a18]"
+  suffix: ''
+  interval: 120
+  random: false
+pro:
+  startuptime: 20
+  starttime: 2

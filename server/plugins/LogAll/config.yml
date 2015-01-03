@@ -1,0 +1,18 @@
+Config:
+  Logs:
+    Itemdrop: true
+    Itempickup: true
+    Chat: true
+    Commands: true
+    Playerquit: true
+    Playerjoin: true
+    Gamemode: true
+    PlayerChangedWorld: true
+    BlockDestroyed: true
+    BlockPlaced: true
+    PlayerDeath: true
+    EntityDeath: true
+    PlayerKick: true
+    PlayerOp: true
+    Player(Un)Ban: true
+    LoggedPlayers: all

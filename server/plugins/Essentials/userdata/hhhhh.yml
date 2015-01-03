@@ -1,0 +1,33 @@
+socialspy: false
+timestamps:
+  login: 1410676835445
+  lastteleport: 1410675303636
+  logout: 1410676853031
+ipAddress: 101.254.27.209
+lastlocation:
+  world: world
+  x: 36.04623135104227
+  y: 64.0
+  z: -749.5338482402786
+  yaw: 22.077576
+  pitch: 3.5976324
+homes:
+  home:
+    world: world
+    x: 72.62285393073911
+    y: 83.0
+    z: -739.6784365600461
+    yaw: -244.64905
+    pitch: 16.499994
+money: '98.78799999999998'
+afk: false
+logoutlocation:
+  world: world
+  x: 73.55709887247534
+  y: 83.0
+  z: -738.5744975436118
+  yaw: -20.768152
+  pitch: 14.400004
+ban:
+  reason: §4已封禁:§r 登录失败!您的帐号已被此服务器封禁!
+  timeout: 0
