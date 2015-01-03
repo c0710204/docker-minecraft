@@ -1,0 +1,1 @@
+FROM maxexcloo/java:latest
