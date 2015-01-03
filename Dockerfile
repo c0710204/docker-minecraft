@@ -1,10 +1,16 @@
 FROM java:7-jre
 MAINTAINER Xiang Gu <c0710204@gmail.com>
-EXPOSE 25565 25566 25567
+EXPOSE 25565 25566 25567 22 80
+
+#install tools
+RUN apt-get update && apt-get install -y openssh-server nginx supervisor
+#supervisord
+COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
+
 # deploy files
 COPY server /server
+COPY client /client
 
-
-#cd /server;Java" -Xincgc -Xmx1G -jar "/server/cauldron-1.7.10-1.1207.01.187-server.jar 
+#CMD
 WORKDIR /server
-CMD bash start.sh 
+CMD ["/usr/bin/supervisord"]
