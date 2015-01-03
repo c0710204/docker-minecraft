@@ -38,18 +38,18 @@ w9: 1
 
 
 # cooldown message (restart)
-cm: "&d[服务器娘] &c\u91CD\u542F\u670D\u52A1\u5668: " 
+cm: "&d[\ux670D\u52A1\ux5668\ux5A18] &c\u91CD\u542F\u670D\u52A1\u5668: " 
 #here  appears the restart time
 
 # cooldown message (stop)
-cms: "&d[服务器娘] &c\u5173\u95ED\u670D\u52A1\u5668: " 
+cms: "&d[\ux670D\u52A1\ux5668\ux5A18] &c\u5173\u95ED\u670D\u52A1\u5668: " 
 #here  appears the stop time
 
 # restart message in Chat
-rm: "&d[服务器娘] &6>>\u91CD\u542F<<"
+rm: "&d[\ux670D\u52A1\ux5668\ux5A18] &6>>\u91CD\u542F<<"
 
 # stop message in Chat
-sm: "&d[服务器娘] &6>>\u5173\u95ED<<"
+sm: "&d[\ux670D\u52A1\ux5668\ux5A18] &6>>\u5173\u95ED<<"
 
 # restart message in Client
 rmc: "&9\u670D\u52A1\u5668\u91CD\u542F, \u6211\u4EEC\u4F1A\u56DE\u6765\u770B\u4F60\u7684"

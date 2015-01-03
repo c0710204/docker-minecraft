@@ -7,4 +7,4 @@ COPY server /server
 
 #cd /server;Java" -Xincgc -Xmx1G -jar "/server/cauldron-1.7.10-1.1207.01.187-server.jar 
 WORKDIR /server
-CMD java -Xincgc -Xms1G -Xmx1G -Xss1M -server -jar cauldron-1.7.10-1.1207.01.187-server.jar 
+CMD start.sh 
