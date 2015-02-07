@@ -9,7 +9,7 @@ COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 # deploy files
 COPY server /server
-COPY client /client
+#COPY client /client
 
 #CMD
 WORKDIR /server
