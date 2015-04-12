@@ -1,5 +1,8 @@
 ##########
 client/*
+server/world
+
+
 
 #################
 ## Eclipse
