@@ -73,16 +73,22 @@ Worlds:
   - world
   - world2
 Custom Drops:
-  APPLE: 0.1
-  GOLDEN_APPLE: 0.0
+  APPLE: 0.5
+  GOLDEN_APPLE: 0.1
 Placed Blocks:
   Handler Plugin Name: TreeAssist
 Modding:
   Custom Logs:
-  - -1
+  - 169
+  - 231
+  - 231:1
   Custom Tree Blocks:
-  - -1
+  - 176
+  - 232
+  - 232:1
   Custom Saplings:
-  - -1
+  - 177
+  - 233
+  - 233:1
 Debug: none
 Config Help: dev.bukkit.org/server-mods/tree-assist/pages/config-walkthrough/

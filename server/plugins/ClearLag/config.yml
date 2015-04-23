@@ -160,13 +160,13 @@ item-merger:
 # -- NOTE: The below 'remove' section applies to this remover!
 # -- NOTE: Putting the interval to low will cause issues!
 auto-removal:
-  broadcast-message: '&6[服务端娘] &5成功扫删 +RemoveAmount 垃圾~!'
+  broadcast-message: '&6[鏈嶅姟绔] &5鎴愬姛鎵垹 +RemoveAmount 鍨冨溇~!'
   broadcast-warning: true
   enable-scheduler: true
   autoremoval-interval: 460
   warnings:
-        - time:400 msg:&6[服务端娘] &b服务端娘来扫地了&7+remaining秒后 &5注意~!
-        - time:440 msg:&6[服务端娘] &b服务端娘还有&7+remaining秒后就来扫地了！ &5注意~~注意~~!
+        - time:400 msg:&6[鏈嶅姟绔] &b鏈嶅姟绔鏉ユ壂鍦颁簡&7+remaining绉掑悗 &5娉ㄦ剰~!
+        - time:440 msg:&6[鏈嶅姟绔] &b鏈嶅姟绔杩樻湁&7+remaining绉掑悗灏辨潵鎵湴浜嗭紒 &5娉ㄦ剰~~娉ㄦ剰~~!
   
 #What should be removed during an auto-removal
 remove:
