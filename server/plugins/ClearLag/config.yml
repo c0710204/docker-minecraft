@@ -13,7 +13,7 @@ settings:
   auto-update: true
   enable-signs: true
   config-version: 1
-  disable-waterlife: true
+  disable-waterlife: false
   keep-spawn-in-memory: true
   enable-api: true
   
